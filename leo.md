@@ -12,3 +12,6 @@ My parents moved to America from Fujian, China. <br>
 # Contact Information #
 Email: lech8762@colorado.edu  <br>
 LinkedIn: [leochencu](https://www.linkedin.com/in/leochencu/)
+
+
+# Updated Personal Page #
