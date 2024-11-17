@@ -1,6 +1,6 @@
 ## My Personal Page ##
-Hey my name is Leo Chen, and I am from Brooklyn, New York.
-My parents moved to America from Fujian, China
+Hey my name is Leo Chen, and I am from Brooklyn, New York. <br>
+My parents moved to America from Fujian, China. <br>
 
 **My Interests**
 - I chose a computer science major because I found it pretty interesting, but to be honest i didn't really have a major in mind up until the summer of my senior uear
@@ -10,5 +10,5 @@ My parents moved to America from Fujian, China
 - My favorite fruit is a close tie between watermelon and mangos
 
 # Contact Information #
-Email: lech8762@colorado.edu
+Email: lech8762@colorado.edu  <br>
 LinkedIn: [leochencu](https://www.linkedin.com/in/leochencu/)
